@@ -1,5 +1,7 @@
 # Piezo bed leveling sensor interface
 
+NOTE: This readme will be extended soon.
+
 This repository contains the kicad files for an interface board
 between four piezo disk level sensors and an 3D printer. Its based
 on an ATMega328P that might either be powered from an existing
@@ -11,4 +13,6 @@ or capacitive leveling sensor.
 
 Each piezo is biased independently.
 
-NOTE: This readme will be extended soon.
+## License
+
+See LICENSE.md
